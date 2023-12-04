@@ -21,4 +21,10 @@
 <a href="https://kejari-bantaeng.kejaksaan.go.id/-/spgacor/"></a>
 <a href="https://agribisnis.umpwr.ac.id/-/slotgaransiantikalah/"></a>
 <a href="http://bpprd.bungokab.go.id/assets/css/situs-slot-garansi/"></a>
+<a href="https://kejati-sumaterautara.kejaksaan.go.id/akunwsoslot/"></a>
+<a href="https://kejati-sumaterautara.kejaksaan.go.id/assets/masterslot/"></a>
+<a href="https://suratppg.uinmataram.ac.id/logs/mslot/"></a>
+<a href="https://kejari-bantaeng.kejaksaan.go.id/products/masterslot-gacor/"></a>
+<a href="https://kejari-bima.kejaksaan.go.id/wp-content/mastergacor/"></a>
+<a href="https://kejati-sumaterautara.kejaksaan.go.id/akunwsoslot/"></a>
 </div>
